@@ -6,6 +6,9 @@ public class Class_2 {
 
 		System.out.println("I am class 2");
 		
+		System.out.println("Dev 2 Adding new line in class 2");
+
+		
 	}
 
 }
