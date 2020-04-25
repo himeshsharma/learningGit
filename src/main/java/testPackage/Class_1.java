@@ -12,6 +12,8 @@ public class Class_1 {
 		System.out.println("testing for new branch");
 		System.out.println("git remote new branch");
 		
+		System.out.println("modified by first developer");
+		
 	}
 
 }
