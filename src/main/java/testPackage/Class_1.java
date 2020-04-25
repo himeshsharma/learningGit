@@ -9,6 +9,7 @@ public class Class_1 {
 		System.out.println("Master Branch Commit one");
 		System.out.println("Master Branch without commit push");
 
+		System.out.println("testing for new branch");
 		
 	}
 
