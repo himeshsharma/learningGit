@@ -6,7 +6,8 @@ public class Class_3 {
 
 		System.out.println("I am class 3");
 		System.out.println("Third Dev modifying it");
-		
+		System.out.println("New row added by dev 1");
+
 	}
 
 }
